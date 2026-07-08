@@ -1,8 +1,6 @@
 # registro1
 Meu primeiro sistema de registro utilizando mysql.
 
-Aqui está a versão do README ajustada com um tom estritamente corporativo e técnico, sem o uso de emojis, ideal para demonstrar perfil analítico e profissionalismo aos recrutadores.
-
 ```markdown
 # Sistema de Registro de Usuários
 
