@@ -1,7 +1,3 @@
-Fiz apenas alguns ajustes cirúrgicos no texto original para que ele reflita **exatamente** a arquitetura que acabamos de construir. Por exemplo, alterei a menção de PDO para **MySQLi** (que foi o método orientado a objetos que usamos), e atualizei os nomes dos arquivos para corresponderem ao seu projeto (`conexao.php`, `register.php`, etc.).
-
-É só copiar o bloco inteiro abaixo, colar no arquivo `README.md` do seu repositório e fazer o commit!
-
 ```markdown
 # Sistema de Registro de Usuários
 
